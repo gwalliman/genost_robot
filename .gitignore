@@ -1,0 +1,16 @@
+# Compiled source #
+*.class
+
+# Hidden Files #
+.DS_Store
+.DS_Store?
+Thumbs.db
+.metadata
+
+# Classdata #
+.classdata
+.classpath
+
+# Others #
+*.*~
+log.txt
